@@ -1,1 +1,2 @@
 this is how we play
+and delete file
